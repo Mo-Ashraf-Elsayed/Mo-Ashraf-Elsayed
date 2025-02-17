@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ashraf</h1>
-<h3 align="center">Junior Front-end developer passionate about web development. The growing demand for digital transformation led me to software development, with a focus on web applications. I specialize in building high-performing, user-friendly and responsive web applications. Keen to stay updated with the latest web development and eager to contribute to innovative projects and collaborate on creative solutions.</h3>
+<h3 align="center">Front-end Angular developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-ashraf-elsayed&label=Profile%20views&color=0e75b6&style=flat" alt="mo-ashraf-elsayed" /> </p>
 

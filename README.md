@@ -13,7 +13,7 @@
 
 - 📫 Email **muhamed.alfadli1@gmail.com**
 
-- 📄Resume [Take a look](https://drive.google.com/file/d/1YDta4zfwkUtsFlrEP8UuuKLt2k6h7xEm/view?usp=sharing)
+- 📄Resume [Take a look](https://drive.google.com/file/d/1opMPAy9vezPQRP9fGt-xawJwZc7gvJTg/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

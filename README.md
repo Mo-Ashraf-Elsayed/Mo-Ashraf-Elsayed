@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Social Media App](https://github.com/Mo-Ashraf-Elsayed/Social-media-app)
+- 🔭 I’m currently working on [Online Exam](https://github.com/Mo-Ashraf-Elsayed/Social-media-app)
 
 - 💬 Ask me about **Angular 2+**
 
 - 📫 Email **muhamed.alfadli1@gmail.com**
 
-- 📄Resume [Take a look](https://drive.google.com/file/d/1opMPAy9vezPQRP9fGt-xawJwZc7gvJTg/view)
+- 📄Resume [Take a look](https://drive.google.com/file/d/1opMPAy9vezPQRP9fGt-xawJwZc7gvJTg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
